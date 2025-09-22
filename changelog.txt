@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2025-09-22
+  Changes:
+    - Changed Assembling machine 1 to Assembling machine
+    - Changed Assembling machine 2 to Fast Assembling machine
+    - Changed Assembling machine 3 to Turbo Assembling machine
+    - Changed Repair Pack to Repair kit
+    - Changed Electric engine to Electric motor
